@@ -16,5 +16,5 @@
 13. git tag V0.1 -m "mensaje" (Agregar tag y una etiqueta)
 14. git tag -d nombreTag (elimina la etiqueta localmente)
 15. git push --tags (Agrego las etiquetas al repositorio remoto)
-16. git push origin :refs/tags/nombreEtiqueta
+16. git push origin :refs/tags/nombreEtiqueta (borrar etiqueta de repositorio remoto)
 
