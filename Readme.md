@@ -13,3 +13,6 @@
 10. git merge nombreRama (unir cambios de otras ramas a la rama master)
 11. git branch -d nombreRama  (Borra una Rama)
 12. git push (subir cambios al repositorio github)
+13. git tag V0.1 -m "mensaje" (Agregar tag y una etiqueta)
+14. git tag -d nombreTag (elimina la etiqueta localmente)
+15. git push --tags (Agrego las etiquetas al repositorio remoto)
